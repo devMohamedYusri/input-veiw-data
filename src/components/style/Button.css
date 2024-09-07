@@ -1,0 +1,21 @@
+button{
+    background-color: rgb(142, 161, 89) !important;
+    border-radius: 30px !important;
+    -webkit-border-radius: 30px !important;
+    -moz-border-radius: 30px !important;
+    -ms-border-radius: 30px !important;
+    -o-border-radius: 30px !important;
+    color: black;
+    width:120px;
+    text-align:center;
+}
+
+
+button:hover{
+    background-color: rgba(59, 66, 38, 0.699);
+}
+
+button:focus{
+    outline:none;
+    border:1px rgb(171, 171, 88) solid;
+}
